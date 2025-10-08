@@ -1,8 +1,8 @@
 # Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
 Use a pre-trained image classifier to identify dog breeds — first project for the AI Programming with Python course by Coursera.
 
-<span style="color: red;">This text is red.</span>
-<span style="color: #008000;">This text is green.</span>
+<span style="color:blue">Step Process of the Image Classifier</span>
+
 
 
 
